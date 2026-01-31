@@ -1,0 +1,277 @@
+<div style="width: 100%; height: 100%; position: relative; background: white; overflow: hidden">
+    <div style="width: 1512px; height: 982px; left: 0px; top: 1177px; position: absolute; overflow: hidden">
+        <div style="width: 53.82px; height: 53.82px; left: 1421.54px; top: 862.32px; position: absolute; background: white; box-shadow: 0px 0px 11.199999809265137px 2px rgba(0, 0, 0, 0.25); border-radius: 9999px"></div>
+        <div style="width: 14.21px; height: 7.19px; left: 1441.34px; top: 885.63px; position: absolute; outline: 4px black solid; outline-offset: -2px"></div>
+    </div>
+    <div data-property-1="Default" style="width: 22px; height: 46px; left: 65.82px; top: 1482px; position: absolute">
+        <div style="left: 22px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: top left; color: #929292; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Ideate</div>
+    </div>
+    <div data-property-1="Default" style="width: 22px; height: 90px; left: 65.82px; top: 1664px; position: absolute">
+        <div style="width: 89.41px; height: 22px; left: 22px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: top left; color: #929292; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Visual Design</div>
+    </div>
+    <div data-property-1="Default" style="width: 22px; height: 66px; left: 65.82px; top: 1563px; position: absolute">
+        <div style="width: 96.13px; height: 22px; left: 22px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: top left; color: #929292; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Prototype</div>
+    </div>
+    <div data-property-1="Default" style="width: 22px; height: 101px; left: 65.82px; top: 1789px; position: absolute">
+        <div style="left: 22px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: top left; color: #929292; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Final Prototype</div>
+    </div>
+    <div data-property-1="Default" style="width: 22px; height: 64px; left: 65.82px; top: 1383px; position: absolute">
+        <div style="left: 22px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: top left; color: #929292; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Research</div>
+    </div>
+    <img style="width: 1512px; height: 944.02px; left: -0.01px; top: 272.62px; position: absolute" src="https://placehold.co/1512x944" />
+    <img style="width: 1512px; height: 943.34px; left: -0.01px; top: 272.63px; position: absolute; background: #757984" src="https://placehold.co/1512x943" />
+    <div style="width: 798px; left: 357px; top: 1929px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 90px; display: inline-flex">
+        <div style="align-self: stretch; height: 1658px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+            <div style="width: 796px; height: 1652px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 70px; display: flex">
+                <div style="align-self: stretch; height: 1338px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 70px; display: flex">
+                    <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                        <div style="color: #333333; font-size: 36px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 45px; word-wrap: break-word">Research and Analysis</div>
+                        <div style="width: 828px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">The research began with a comprehensive inventory of Netflix's system components, organized into three primary categories.</div>
+                        <img style="width: 796.27px; height: 364.17px; border-radius: 16px" src="https://placehold.co/796x364" />
+                    </div>
+                    <div style="width: 798.95px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">After mapping all components, clear system boundaries were established to focus the analysis on the most critical elements affecting user engagement and content investment decisions. This boundary definition allowed me to concentrate on high-leverage intervention points while understanding how they connect to the broader Netflix ecosystem.</div>
+                    <div style="width: 645.50px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">Establishing System Boundaries</div>
+                    <div style="width: 798.95px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">With components and boundaries defined, relationships between elements were mapped to understand Netflix's core flows and feedback loops. This analysis revealed critical leverage points, particularly around the Household Policy Balancing Loop and the Content Investment Reinforcing Loop.<br/><br/>Through systems analysis, key friction points were identified: the Household rule creates access denial leading to churn risk and lost revenue, while the platform operates as a one-way content delivery system lacking direct insight into users' future content preferences beyond viewing patterns. Additionally, existing personalization algorithms face filter bubble limitations that restrict strategic content investment decisions.</div>
+                    <div style="width: 645.50px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">Mapping Flows and Feedback Loops</div>
+                </div>
+                <div style="align-self: stretch; height: 266px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                    <div style="width: 726.51px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">The research phase focused on understanding how different system elements interact and influence each other. I identified high-leverage intervention points that could simultaneously address multiple challenges: reducing churn, strengthening the revenue-content quality connection, and creating beneficial bidirectional information flows between Netflix and subscribers.<br/><br/>This analysis revealed a fundamental opportunity: transforming Netflix from a passive content provider into a collaborative platform where subscribers have direct agency in shaping content creation decisions. The insights generated from this systems mapping informed the design of the community-driven voting intervention that addresses multiple leverage points simultaneously.</div>
+                    <div style="width: 586.97px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">Identifying Leverage Points</div>
+                </div>
+            </div>
+        </div>
+        <div style="width: 798px; height: 652px; padding-left: 73px; padding-right: 73px; padding-top: 167px; padding-bottom: 167px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+            <div style="width: 799px; left: 0px; top: -0.38px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                <div style="color: #333333; font-size: 36px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 45px; word-wrap: break-word">Ideation and Concept Development</div>
+                <div style="width: 797.11px; height: 490.97px; color: black; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">After identifying critical leverage points in Netflix's system, rapid ideation sessions were conducted to explore multiple intervention strategies.  Three primary concepts were sketched and evaluated: a community-driven content voting system allowing subscribers to influence funding decisions before production, a shared group plan for users in different locations, and customizable Netflix carousels for personalized content discovery. Through evaluation against identified leverage points, the community-driven voting system emerged as most promising for transforming Netflix's subscriber relationships while generating valuable content investment data.</div>
+                <div style="width: 797.11px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">Paper prototypes allowed rapid testing of core interaction flows without investment in high-fidelity design. Through informal testing, the swipe-based mobile interface was validated, as it felt intuitive and required minimal cognitive effort for the users, while the comparative TV format successfully integrated voting into existing browsing behavior without feeling intrusive.</div>
+            </div>
+        </div>
+        <div style="width: 796px; height: 2257px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 37px; display: flex">
+            <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                <div style="color: #333333; font-size: 36px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 45px; word-wrap: break-word">Low-Fidelity Prototyping </div>
+                <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                    <div style="align-self: stretch; color: black; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">To validate the community-driven voting concept, low-fidelity prototypes were developed for both mobile and TV platforms, testing how the intervention would integrate seamlessly into Netflix's existing interface while creating new opportunities for subscriber engagement.</div>
+                </div>
+            </div>
+            <div style="align-self: stretch; height: 1163px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                <div style="width: 796px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">The mobile prototype focused on creating a frictionless voting experience that would feel familiar to users. A card-based interface was created, where content appears one at a time, with users swiping right to vote "yes" or left to pass, leveraging interaction patterns already established by dating and social media apps. The lo-fi sketches helped identify the optimal information hierarchy, determining how much detail to show on each card without overwhelming users during quick voting sessions.<br/><br/>A dedicated badge page was designed to frame participation as progress markers and encourage continued engagement through gamification. Users can view their earned badges, track voting milestones, and see their contribution level to the Netflix community. The badge system creates visual differentiation between participation tiers to motivate users to continue voting and deepen their investment in the platform's content decisions.</div>
+                <div style="width: 643.12px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">Mobile Prototype: Swipe-Based Voting</div>
+            </div>
+            <div style="align-self: stretch; height: 266px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                <div style="width: 726.51px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">For the TV platform, wireframes were created for a dedicated voting section accessed through a banner on the home screen or the top navigation. On the voting page is a comparative voting interface that presents two movies/shows side-by-side, asking the user to vote for one. After users submit their vote, they see a statistics display that creates transparency and social proof, showing them they're part of a larger community decision-making process.</div>
+                <div style="width: 586.97px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">TV Prototype: Comparative Voting</div>
+            </div>
+        </div>
+        <div style="width: 792px; height: 1567px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+            <div style="width: 800px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                <div style="color: #333333; font-size: 36px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 45px; word-wrap: break-word">Visual Design</div>
+                <div style="align-self: stretch; color: black; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">The visual design phase transformed conceptual frameworks and low-fidelity prototypes into a polished system that seamlessly integrates with Netflix's existing design language while introducing purposeful new visual elements to support the intervention.</div>
+            </div>
+            <div style="width: 792px; height: 4075px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: flex">
+                <div style="width: 1212.01px; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 70px; display: flex">
+                    <div style="width: 802px; height: 745px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                        <div style="width: 792.72px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">Custom icons were designed for the Netflix ecosystem map that maintain visual consistency. The icon system uses Netflix's brand colors strategically: red for Netflix’s Infrastructure, Operations, Business, and Content; white for User Experience. Typography follows Netflix's design system to ensure the map feels native to the brand. The resulting map serves as both an analytical tool and a communication artifact that stakeholders can reference when discussing system interventions.</div>
+                        <div style="width: 640.47px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">System Map Design</div>
+                    </div>
+                    <div style="height: 566px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                        <div style="width: 694.04px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">The icons created for the system map directly informed the visual design of the gamification badges. Each badge incorporates geometric shapes and iconography that reference the system components they represent—for example, voting milestone badges feature visual elements that echo the content flow icons from the map. The badges maintain Netflix's color palette, primarily using red accents against dark backgrounds to create visual pop without overwhelming the interface. This design choice ensures badges feel rewarding and celebratory while remaining consistent with Netflix's overall aesthetic.</div>
+                        <div style="width: 563.36px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">Badge System Design</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="width: 805px; height: 1488px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+            <div style="align-self: stretch; height: 104px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                    <div style="color: #333333; font-size: 36px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 45px; word-wrap: break-word">Final Prototype</div>
+                    <div style="width: 694.13px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">Building on the visual design system, high-fidelity interactive prototypes were developed for both mobile and TV platforms that seamlessly integrate with Netflix's existing interface.</div>
+                </div>
+            </div>
+            <div style="align-self: stretch; height: 704px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                    <div style="width: 896px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">Mobile Interface Design</div>
+                    <div style="width: 797.31px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">The mobile voting interfacewas designed to match Netflix's current UI conventions precisely. The swipe-based card layout uses the same corner radius, shadow depth, and spacing as existing Netflix content cards. Typography follows Netflix's established hierarchy—bold titles in the platform's primary typeface, with supporting text in lighter weights. The color palette remains true to Netflix's dark theme with strategic use of red for call-to-action elements. Animation timing and transitions mirror Netflix's existing micro-interactions to create a cohesive experience that feels like a natural extension of the platform rather than a bolt-on feature.</div>
+                </div>
+            </div>
+            <div style="align-self: stretch; height: 211px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                    <div style="width: 896px; color: #333333; font-size: 24px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 30px; word-wrap: break-word">TV Interface Design</div>
+                    <div style="width: 797.31px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">For the TV platform, I maintained visual consistency with Netflix's lean-back viewing interface. The comparative voting layout uses the same content thumbnail styling as the standard browsing experience. Selection states match Netflix's existing remote control interactions, with the familiar white outline appearing around selected content. After voting, statistics display of the current results, creating transparency and showing users they're part of a larger community decision-making process.</div>
+                </div>
+            </div>
+        </div>
+        <div style="align-self: stretch; height: 185px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 70px; display: flex">
+                <div style="height: 749px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: flex">
+                    <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                        <div style="color: #333333; font-size: 36px; font-family: ITC Avant Garde Gothic; font-weight: 500; line-height: 45px; word-wrap: break-word">Reflection and Impact</div>
+                        <div style="width: 798.19px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">The proposed voting system would transform Netflix's operations by strengthening key system loops and introducing user participation. By evolving into a collaborative platform, this intervention addresses multiple leverage points: strengthening revenue-content connections, creating beneficial information flows, and reducing churn through deeper platform investment. Gamification adds engagement beyond watching content, creating added subscription value. Most importantly, Netflix gains valuable insights into future content preferences, enabling more targeted investments and potentially higher ROI on production.<br/><br/>Check out the entire interactive project below!</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 1108.01px; left: 254px; top: 1292.75px; position: absolute; color: #333333; font-size: 48px; font-family: ITC Avant Garde Gothic; font-weight: 700; line-height: 52.80px; word-wrap: break-word">The System Behind Netflix</div>
+    <div style="width: 1005px; height: 403px; left: 254px; top: 1436px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 280px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
+            <div style="width: 280px; color: #333333; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Services</div>
+            <div style="width: 280px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">Systems Design, UX/UI Design,        Product Strategy</div>
+            <div style="width: 159.04px; color: #333333; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Role</div>
+            <div style="width: 207px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">Researcher, Systems Designer,        UX/UI Designer</div>
+        </div>
+        <div style="width: 590px; height: 404px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
+            <div style="width: 221.61px; color: #333333; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Overview</div>
+            <div style="width: 590px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">Netflix's current model operates as a one-way content delivery system, creating friction points in user retention and content investment decisions. The Household Policy generates user frustration and churn risk, while the platform lacks direct insight into future content preferences beyond viewing patterns. Additionally, existing personalization algorithms face filter bubble limitations, restricting Netflix's ability to make strategic content investments that align with subscriber interests.</div>
+            <div style="width: 221.61px; color: #333333; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 700; line-height: 22.40px; word-wrap: break-word">Challenge</div>
+            <div style="width: 590px; height: 123.54px; color: #333333; font-size: 16px; font-family: Adobe Caslon Pro; font-weight: 600; line-height: 25.60px; word-wrap: break-word">The challenge was to map Netflix’s system, identify high-leverage intervention points that could simultaneously reduce churn, strengthen the connection between revenue and content quality, and create beneficial bidirectional information flows. The proposed intervention addresses a fundamental question: How can Netflix transform from a passive content provider into a collaborative platform where subscribers have agency in shaping the content creation process? </div>
+        </div>
+    </div>
+    <div style="left: 873px; top: 186.55px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 46px; display: inline-flex">
+        <div style="color: #231F20; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 700; text-transform: uppercase; word-wrap: break-word">Ux/Ui Design</div>
+        <div style="color: #231F20; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 500; text-transform: uppercase; word-wrap: break-word">Graphic Design</div>
+        <div style="color: #231F20; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 500; text-transform: uppercase; word-wrap: break-word">About me</div>
+        <div style="color: #231F20; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 500; text-transform: uppercase; word-wrap: break-word">Contact</div>
+    </div>
+    <div style="width: 126px; height: 122px; left: 150px; top: 80.38px; position: absolute; overflow: hidden">
+        <div style="width: 126px; height: 122px; left: 0px; top: 0px; position: absolute; background: black"></div>
+        <div style="width: 47.58px; height: 47.55px; left: 68.33px; top: 70.22px; position: absolute; background: #D3C1DE"></div>
+        <div style="width: 47.58px; height: 47.55px; left: 5.88px; top: 6.75px; position: absolute; background: #D3C1DE"></div>
+        <div style="width: 47.33px; height: 47.30px; left: 70.76px; top: 68.53px; position: absolute; background: #F19130"></div>
+        <div style="width: 47.33px; height: 47.30px; left: 5.51px; top: 5.88px; position: absolute; background: #E25599"></div>
+        <div style="width: 126px; height: 59.02px; left: 0px; top: 0px; position: absolute; background: #231F20"></div>
+        <div style="width: 124.45px; height: 59.02px; left: 1.55px; top: 62.98px; position: absolute; background: #231F20"></div>
+    </div>
+    <div style="width: 219px; height: 47.77px; left: 327px; top: 153.96px; position: absolute"><span style="color: #E25599; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 600; text-transform: capitalize; word-wrap: break-word">Anna Leonard<br/></span><span style="color: black; font-size: 14px; font-family: Adobe Caslon Pro; font-style: italic; font-weight: 400; text-transform: capitalize; word-wrap: break-word">Visual Communicator · UX/UI    & Web Designer · Illustrator</span></div>
+    <div style="left: 1091.99px; top: 11242.41px; position: absolute"><span style="color: #231F20; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 500; text-transform: uppercase; word-wrap: break-word">L</span><span style="color: #231F20; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 500; text-transform: capitalize; word-wrap: break-word">inkedin</span></div>
+    <div style="left: 1189.49px; top: 11242.41px; position: absolute; color: #231F20; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 500; text-transform: capitalize; word-wrap: break-word">Instagram</div>
+    <div style="left: 1305.99px; top: 11242.41px; position: absolute; color: #231F20; font-size: 14px; font-family: ITC Avant Garde Gothic; font-weight: 500; text-transform: capitalize; word-wrap: break-word">contact</div>
+    <div style="width: 1212.01px; height: 0px; left: 149.99px; top: 11210.66px; position: absolute; outline: 1px #231F20 solid; outline-offset: -0.50px"></div>
+    <div style="width: 126px; height: 122px; left: 149.99px; top: 11242.41px; position: absolute; overflow: hidden">
+        <div style="width: 126px; height: 122px; left: 0px; top: 0px; position: absolute; background: black"></div>
+        <div style="width: 47.58px; height: 47.55px; left: 68.33px; top: 70.23px; position: absolute; background: #D3C1DE"></div>
+        <div style="width: 47.58px; height: 47.55px; left: 5.88px; top: 6.75px; position: absolute; background: #D3C1DE"></div>
+        <div style="width: 47.33px; height: 47.30px; left: 70.76px; top: 68.53px; position: absolute; background: #F19130"></div>
+        <div style="width: 47.33px; height: 47.30px; left: 5.51px; top: 5.88px; position: absolute; background: #E25599"></div>
+        <div style="width: 126px; height: 59.02px; left: 0px; top: 0px; position: absolute; background: #231F20"></div>
+        <div style="width: 124.45px; height: 59.02px; left: 1.55px; top: 62.98px; position: absolute; background: #231F20"></div>
+    </div>
+    <img style="width: 445.65px; height: 340px; left: 455.41px; top: 2917.26px; position: absolute; border-radius: 16px" src="https://placehold.co/446x340" />
+    <img style="width: 425.50px; height: 340px; left: 936.51px; top: 2917.26px; position: absolute; border-radius: 16px" src="https://placehold.co/426x340" />
+    <img style="width: 269.94px; height: 340px; left: 150px; top: 2917.26px; position: absolute; border-radius: 16px" src="https://placehold.co/270x340" />
+    <div style="left: 150px; top: 3925px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+        <img style="width: 397.48px; height: 136.21px" src="https://placehold.co/397x136" />
+        <img style="width: 397.48px; height: 140.61px" src="https://placehold.co/397x141" />
+        <img style="width: 809.20px; height: 276.83px" src="https://placehold.co/809x277" />
+    </div>
+    <img style="width: 380.83px; height: 247.34px; left: 565.58px; top: 6428.87px; position: absolute" src="https://placehold.co/381x247" />
+    <img style="width: 588.58px; height: 382.26px; left: 773.42px; top: 6011.86px; position: absolute" src="https://placehold.co/589x382" />
+    <img style="width: 380.83px; height: 247.34px; left: 150px; top: 6428.87px; position: absolute" src="https://placehold.co/381x247" />
+    <img style="width: 380.83px; height: 247.34px; left: 981.17px; top: 6428.87px; position: absolute" src="https://placehold.co/381x247" />
+    <img style="width: 588.58px; height: 382.26px; left: 150px; top: 6011.86px; position: absolute" src="https://placehold.co/589x382" />
+    <img style="width: 908.92px; height: 568.02px; left: 453.08px; top: 7133.70px; position: absolute; background: #757984; border-radius: 16px" src="https://placehold.co/909x568" />
+    <img style="width: 267.99px; height: 567.86px; left: 149.99px; top: 7133.78px; position: absolute; border-radius: 16px" src="https://placehold.co/268x568" />
+    <div style="width: 157.59px; height: 157.59px; left: 481.30px; top: 7980px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 133.82px; height: 41.69px; left: 602.79px; top: 8093.21px; position: absolute; transform: rotate(-180deg); transform-origin: top left; background: #EE1520; border-radius: 1px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 48.66px; height: 45.83px; left: 495.04px; top: 8057.90px; position: absolute; color: white; font-size: 24px; font-family: Netflix Sans ; font-weight: 700; text-transform: uppercase; line-height: 24.70px; word-wrap: break-word">10</div>
+    <div style="width: 30.96px; height: 16.12px; left: 525.29px; top: 8020.33px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 515.67px; top: 8024.72px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 572.37px; top: 8017.73px; position: absolute; transform: rotate(148deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 74.27px; height: 97.74px; left: 516.83px; top: 8036.85px; position: absolute; transform: rotate(-26deg); transform-origin: top left; background: #EE1520; box-shadow: -1px 6px 4.900000095367432px #8F0014; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 157.59px; height: 157.59px; left: 696.27px; top: 8174.70px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 133.82px; height: 41.69px; left: 817.74px; top: 8287.90px; position: absolute; transform: rotate(-180deg); transform-origin: top left; background: #EE1520; border-radius: 1px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 61.52px; height: 45.83px; left: 701.69px; top: 8251.75px; position: absolute"><span style="color: white; font-size: 24px; font-family: Netflix Sans ; font-weight: 700; text-transform: uppercase; line-height: 24.70px; word-wrap: break-word">1</span><span style="color: white; font-size: 24px; font-family: Netflix Sans ; font-weight: 700; text-transform: uppercase; line-height: 24.70px; letter-spacing: 0.24px; word-wrap: break-word">00</span></div>
+    <div style="width: 30.96px; height: 16.12px; left: 740.25px; top: 8215.03px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 730.63px; top: 8219.40px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 787.34px; top: 8212.42px; position: absolute; transform: rotate(148deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 74.27px; height: 97.74px; left: 731.79px; top: 8231.55px; position: absolute; transform: rotate(-26deg); transform-origin: top left; background: #EE1520; box-shadow: -1px 6px 4.900000095367432px #8F0014; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 157.59px; height: 157.59px; left: 696.27px; top: 7980px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 133.82px; height: 41.69px; left: 817.74px; top: 8093.21px; position: absolute; transform: rotate(-180deg); transform-origin: top left; background: #EE1520; border-radius: 1px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 48.66px; height: 45.83px; left: 708.89px; top: 8057.90px; position: absolute; color: white; font-size: 24px; font-family: Netflix Sans ; font-weight: 700; text-transform: uppercase; line-height: 24.70px; word-wrap: break-word">25</div>
+    <div style="width: 30.96px; height: 16.12px; left: 740.25px; top: 8020.33px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 730.63px; top: 8024.72px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 787.34px; top: 8017.73px; position: absolute; transform: rotate(148deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 74.27px; height: 97.74px; left: 731.80px; top: 8036.85px; position: absolute; transform: rotate(-26deg); transform-origin: top left; background: #EE1520; box-shadow: -1px 6px 4.900000095367432px #8F0014; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 157.59px; height: 157.59px; left: 266.34px; top: 8174.70px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 133.82px; height: 41.69px; left: 387.82px; top: 8287.90px; position: absolute; transform: rotate(-180deg); transform-origin: top left; background: #EE1520; border-radius: 1px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 48.66px; height: 45.83px; left: 278.97px; top: 8252.60px; position: absolute; color: white; font-size: 24px; font-family: Netflix Sans ; font-weight: 700; text-transform: uppercase; line-height: 24.70px; word-wrap: break-word">50</div>
+    <div style="width: 30.96px; height: 16.12px; left: 310.33px; top: 8215.03px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 300.71px; top: 8219.40px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 357.41px; top: 8212.42px; position: absolute; transform: rotate(148deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 74.27px; height: 97.74px; left: 301.88px; top: 8231.55px; position: absolute; transform: rotate(-26deg); transform-origin: top left; background: #EE1520; box-shadow: -1px 6px 4.900000095367432px #8F0014; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 157.59px; height: 157.59px; left: 481.30px; top: 8174.70px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 133.82px; height: 41.69px; left: 602.79px; top: 8287.90px; position: absolute; transform: rotate(-180deg); transform-origin: top left; background: #EE1520; border-radius: 1px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 48.66px; height: 45.83px; left: 493.94px; top: 8252.60px; position: absolute; color: white; font-size: 24px; font-family: Netflix Sans ; font-weight: 700; text-transform: uppercase; line-height: 24.70px; word-wrap: break-word">75</div>
+    <div style="width: 30.96px; height: 16.12px; left: 525.29px; top: 8215.03px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 515.67px; top: 8219.40px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 572.37px; top: 8212.42px; position: absolute; transform: rotate(148deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 74.27px; height: 97.74px; left: 516.83px; top: 8231.55px; position: absolute; transform: rotate(-26deg); transform-origin: top left; background: #EE1520; box-shadow: -1px 6px 4.900000095367432px #8F0014; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 157.54px; height: 157.54px; left: 898.88px; top: 8174.65px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 130.79px; height: 132.90px; left: 912.26px; top: 8199.30px; position: absolute; overflow: hidden">
+        <div style="width: 4.09px; height: 18.69px; left: 53.13px; top: 110.06px; position: absolute; background: white"></div>
+        <div style="width: 4.09px; height: 18.69px; left: 73.57px; top: 110.06px; position: absolute; background: white"></div>
+        <div style="width: 4.09px; height: 11.18px; left: 16.35px; top: 103.83px; position: absolute; background: white"></div>
+        <div style="width: 4.09px; height: 18.69px; left: 36.78px; top: 103.83px; position: absolute; background: white"></div>
+        <div style="width: 114.44px; height: 56.09px; left: 8.17px; top: 72.66px; position: absolute; background: white"></div>
+        <div style="width: 4.09px; height: 18.69px; left: 89.92px; top: 103.83px; position: absolute; background: white"></div>
+        <div style="width: 4.09px; height: 9.98px; left: 110.36px; top: 103.83px; position: absolute; background: white"></div>
+        <div style="width: 69.48px; height: 66.45px; left: 30.65px; top: 4.15px; position: absolute; background: white"></div>
+        <div style="width: 47.72px; height: 41.21px; left: 41.35px; top: 12.51px; position: absolute; background: white"></div>
+    </div>
+    <div style="width: 157.54px; height: 157.54px; left: 898.88px; top: 7980px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 116.03px; height: 116.03px; left: 917.54px; top: 8002.88px; position: absolute; overflow: hidden">
+        <div style="width: 116.03px; height: 95.49px; left: 0px; top: 10.27px; position: absolute; background: white"></div>
+        <div style="width: 4.53px; height: 4.52px; left: 82.84px; top: 27.36px; position: absolute; background: white"></div>
+        <div style="width: 10.32px; height: 21.18px; left: 80.83px; top: 67.27px; position: absolute; background: white"></div>
+    </div>
+    <div style="width: 157.54px; height: 157.54px; left: 1101.46px; top: 7980px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 105.48px; height: 103.37px; left: 1125.38px; top: 8009.20px; position: absolute; overflow: hidden">
+        <div style="width: 73.83px; height: 72.36px; left: 20.22px; top: 0px; position: absolute; background: white"></div>
+        <div style="width: 42.68px; height: 54.73px; left: 21.05px; top: 1.01px; position: absolute; background: white"></div>
+        <div style="width: 25.33px; height: 38.54px; left: 68.72px; top: 23.76px; position: absolute; background: white"></div>
+        <div style="width: 18.88px; height: 14.92px; left: 63.80px; top: 2.62px; position: absolute; background: white"></div>
+        <div style="width: 22.37px; height: 15.33px; left: 45.41px; top: 57.03px; position: absolute; background: white"></div>
+        <div style="width: 82.63px; height: 77.53px; left: 9.67px; top: 5.17px; position: absolute; background: white"></div>
+        <div style="width: 10.55px; height: 10.34px; left: 16.70px; top: 1.72px; position: absolute; background: white"></div>
+        <div style="width: 10.55px; height: 10.34px; left: 85.26px; top: 62.02px; position: absolute; background: white"></div>
+        <div style="width: 35.16px; height: 10.34px; left: 39.55px; top: 93.03px; position: absolute; background: white"></div>
+        <div style="width: 31.64px; height: 17.23px; left: 41.31px; top: 79.25px; position: absolute; background: white"></div>
+    </div>
+    <div style="width: 157.54px; height: 157.54px; left: 1101.46px; top: 8174.65px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 109.70px; height: 109.70px; left: 1125.38px; top: 8203.85px; position: absolute; overflow: hidden">
+        <div style="width: 42.85px; height: 42.85px; left: 33.42px; top: 62.77px; position: absolute; background: white"></div>
+        <div style="width: 28.28px; height: 27.11px; left: 40.71px; top: 69.12px; position: absolute; background: white"></div>
+        <div style="width: 48.42px; height: 66.78px; left: 8.57px; top: 8.45px; position: absolute; background: white"></div>
+        <div style="width: 48.42px; height: 66.78px; left: 52.71px; top: 8.45px; position: absolute; background: white"></div>
+        <div style="width: 58.06px; height: 17.57px; left: 26.99px; top: 8.36px; position: absolute; background: white"></div>
+    </div>
+    <div style="width: 157.59px; height: 157.59px; left: 266.34px; top: 7980px; position: absolute; background: linear-gradient(180deg, #EE1520 0%, #880C12 100%); border-radius: 9999px; border: 7px white solid"></div>
+    <div style="width: 133.82px; height: 41.69px; left: 387.82px; top: 8093.21px; position: absolute; transform: rotate(-180deg); transform-origin: top left; background: #EE1520; border-radius: 1px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 30.96px; height: 16.12px; left: 310.33px; top: 8020.33px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 300.71px; top: 8024.72px; position: absolute; transform: rotate(-32deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 8.68px; height: 23.81px; left: 357.41px; top: 8017.73px; position: absolute; transform: rotate(148deg); transform-origin: top left; border-radius: 34px; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 74.27px; height: 97.74px; left: 301.88px; top: 8036.85px; position: absolute; transform: rotate(-26deg); transform-origin: top left; background: #EE1520; box-shadow: -1px 6px 4.900000095367432px #8F0014; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 35.97px; height: 45.83px; left: 284.50px; top: 8057.52px; position: absolute; color: white; font-size: 24px; font-family: Netflix Sans ; font-weight: 700; text-transform: uppercase; line-height: 24.70px; word-wrap: break-word">1</div>
+    <div style="width: 814.03px; height: 445.32px; left: 547.97px; top: 8815.06px; position: absolute; background: #D9D9D9"></div>
+    <img style="width: 189.59px; height: 415.53px; left: 857.83px; top: 8823.08px; position: absolute" src="https://placehold.co/190x416" />
+    <img style="width: 454.36px; height: 454.36px; left: 730.92px; top: 8806.01px; position: absolute" src="https://placehold.co/454x454" />
+    <img style="width: 189.68px; height: 415.73px; left: 1130.56px; top: 8822.68px; position: absolute" src="https://placehold.co/190x416" />
+    <img style="width: 191.21px; height: 414.70px; left: 586.95px; top: 8823.71px; position: absolute" src="https://placehold.co/191x415" />
+    <img style="width: 454.36px; height: 454.36px; left: 460.79px; top: 8806.01px; position: absolute" src="https://placehold.co/454x454" />
+    <img style="width: 454.36px; height: 454.36px; left: 1003.43px; top: 8806.01px; position: absolute" src="https://placehold.co/454x454" />
+    <div style="width: 812.84px; height: 10.30px; left: 547.76px; top: 9250.19px; position: absolute; background: linear-gradient(180deg, rgba(249.05, 244.52, 233.29, 0) 74%, #FFFFFF 100%)"></div>
+    <img style="width: 362.67px; height: 445.32px; left: 149.99px; top: 8815.06px; position: absolute; border-radius: 16px" src="https://placehold.co/363x445" />
+    <img style="width: 547.92px; height: 309.02px; left: 169.92px; top: 9547.11px; position: absolute" src="https://placehold.co/548x309" />
+    <img style="width: 588.65px; height: 402.50px; left: 150px; top: 9528.57px; position: absolute" src="https://placehold.co/589x403" />
+    <img style="width: 547.92px; height: 309.02px; left: 793.73px; top: 9547.11px; position: absolute" src="https://placehold.co/548x309" />
+    <img style="width: 588.65px; height: 402.50px; left: 773.36px; top: 9528.57px; position: absolute" src="https://placehold.co/589x403" />
+    <img style="width: 1212.01px; height: 787.17px; left: 150px; top: 10333.50px; position: absolute; border-radius: 16px" src="https://placehold.co/1212x787" />
+    <img style="width: 179.78px; height: 389.06px; left: 360.65px; top: 4941.66px; position: absolute" src="https://placehold.co/180x389" />
+    <img style="width: 179.78px; height: 389.06px; left: 565.89px; top: 4941.66px; position: absolute" src="https://placehold.co/180x389" />
+    <img style="width: 179.78px; height: 389.06px; left: 975.17px; top: 4941.66px; position: absolute" src="https://placehold.co/180x389" />
+    <img style="width: 180.19px; height: 389.95px; left: 770.15px; top: 5364.67px; position: absolute" src="https://placehold.co/180x390" />
+    <img style="width: 180.19px; height: 389.95px; left: 359.25px; top: 5364.67px; position: absolute" src="https://placehold.co/180x390" />
+    <img style="width: 180.19px; height: 389.95px; left: 564.90px; top: 5364.67px; position: absolute" src="https://placehold.co/180x390" />
+    <img style="width: 179.78px; height: 389.06px; left: 770.73px; top: 4941.66px; position: absolute" src="https://placehold.co/180x389" />
+    <img style="width: 180.19px; height: 389.95px; left: 974.99px; top: 5364.67px; position: absolute" src="https://placehold.co/180x390" />
+</div>
