@@ -1,4 +1,4 @@
-nav {
+.main-navbar {
   bottom: 0;
   right: 0;
   height: auto;
@@ -6,7 +6,7 @@ nav {
   gap: 40px;
 }
 
-nav ul {
+.main-navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -15,12 +15,12 @@ nav ul {
   white-space: nowrap;
 }
 
-nav li {
+.main-navbar li {
   display: inline-block;
   padding: 0 0 0 40px;
 }
 
-nav li a {
+.main-navbar li a {
   text-decoration: none;
   text-align: center;
   white-space: nowrap;
@@ -29,11 +29,11 @@ nav li a {
   font-family: 'ITC Avant Garde Gothic';
 }
 
-nav li a:hover {
+main-navbar li a:hover {
   text-decoration: underline;
   text-shadow: 0 0 1px #333;
 }
-nav li a.active {
+main-navbar li a.active {
   text-shadow: 0 0 1px #333;
 }
 
@@ -80,7 +80,7 @@ nav li a.active {
   overflow-y: auto;
 }
 
-.ftr-nav {
+.ftr-navbar {
   flex: 1;
   bottom: auto;
   top: 0;
@@ -88,7 +88,7 @@ nav li a.active {
   margin-top: 0;
   overflow-y: auto;
 }
-.ftr-nav ul {
+.ftr-navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -96,10 +96,11 @@ nav li a.active {
   justify-content: flex-end;
   white-space: nowrap;
 }
-.ftr-nav li {
+.ftr-navbar li {
   display: inline-block;
+  padding: 0 0 0 40px;
 }
-.ftr-nav a {
+.ftr-navbar a {
   text-decoration: none;
   text-align: center;
   white-space: nowrap;
@@ -107,7 +108,7 @@ nav li a.active {
   font-size: 14px;
   font-family: 'ITC Avant Garde Gothic';
 }
-.ftr-nav li a:hover {
+.ftr-navbar li a:hover {
   text-decoration: underline;
   text-shadow: 0 0 1px #333;
 }
