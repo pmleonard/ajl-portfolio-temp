@@ -29,11 +29,11 @@
   font-family: 'ITC Avant Garde Gothic';
 }
 
-main_navbar li a:hover {
+.main_navbar li a:hover {
   text-decoration: underline;
   text-shadow: 0 0 1px #333;
 }
-main_navbar li a.active {
+.main_navbar li a.active {
   text-shadow: 0 0 1px #333;
 }
 
