@@ -70,6 +70,10 @@
   font-size: 14px;
   font-family: 'ITC Avant Garde Gothic';
 }
+.side_navbar li a:hover {
+  text-decoration: underline;
+  text-shadow: 0 0 1px #333;
+}
 
 .nav_return {
   flex: 1;
